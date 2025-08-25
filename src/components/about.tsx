@@ -1,5 +1,5 @@
 import '../index.css'
-import resume from '../docs/Carlos Borrega CV.pdf'
+import resume from '../docs/Charles Burley CV.pdf'
 import profile from '../images/profile/profile.jpg'
 
 const About = () => {
@@ -42,7 +42,7 @@ const About = () => {
                         <div className='grid grid-cols-4 my-10 text-lg'>
                             <h2 className='font-bold xs:col-span-1 sm:col-span-2 col-span-1'>CV</h2>
                             <div className='w-full xs:col-span-3 sm:col-span-2 xs:text-right sm:text-left'>
-                                <a href={resume} download={'Carlos Borrega CV'}>
+                                <a href={resume} download={'Charles Burley CV'}>
                                     Click here to download
                                 </a>
                             </div>
