@@ -12,7 +12,7 @@ const About = () => {
             <div className='grid gap-18 lg:grid-cols-3 md:grid-cols-1'>
                 <div className='flex flex-col items-left'>
                     <img src={profile} className='mx-auto rounded-md lg:w-[100%] sm:w-[80%] xs:w-[100%]'></img>
-                    <h3 className='mt-10 text-xl font-bold'>HI, I'M CARLOS</h3>
+                    <h3 className='mt-10 text-xl font-bold'>HI, I'M CHARLIE</h3>
                     <p className='text-lg xs:text-left sm:text-justify my-8'>I am a Visual Merchandiser with over 10 years of experience in the retail sector. I have worked with a variety of brands, ranging from streetwear to high-end fashion. My expertise includes window displays, mannequin styling, and store layouts. Check my work below!</p>
                 </div>
 
@@ -34,7 +34,7 @@ const About = () => {
                             <h2 className='font-bold xs:col-span-1 sm:col-span-2 col-span-1'>Email</h2>
                             <div className='w-full xs:col-span-3 sm:col-span-2 xs:text-right sm:text-left'>
                                 <a href='mailto:cborrega0@gmail.com'>
-                                    cborrega0@gmail.com
+                                    charlesburley2@gmail.com
                                 </a>
                             </div>
                         </div>

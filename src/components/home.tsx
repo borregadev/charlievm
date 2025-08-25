@@ -11,7 +11,7 @@ const Home = () => {
       </div>
 
       <div className=''>
-        <h3 className='title font-bold tracking-wider lg:text-2xl md:text-xl sm:text-lg xs:text-md'>CARLOS BORREGA</h3>
+        <h3 className='title font-bold tracking-wider lg:text-2xl md:text-xl sm:text-lg xs:text-md'>CHARLES BURLEY</h3>
       </div>
     </div>
   );
